@@ -1,0 +1,11 @@
+.polygon {
+  fill: olivedrab;
+  stroke: goldenrod;
+  stroke-width: 5;
+  transition: 0.75s;
+}
+
+.polygon:hover {
+  fill: magenta;
+  stroke: slateblue;
+}
